@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "name": "Pink navy",
+  "theme": {
+    "colors": {
+      "frame": [252, 201, 209],
+
+      "tab_line": [20, 46, 123],
+      "tab_loading": [20, 46, 123],
+      "tab_background_separator": [221, 218, 232],
+      "tab_selected": [248, 249, 250],
+
+      "toolbar": [248, 249, 250],
+      "toolbar_bottom_separator": [221, 218, 232],
+      "toolbar_field_border_focus": [20, 46, 123],
+      "toolbar_top_separator": [148, 156, 208],
+
+      "icons": [20, 46, 123],
+      "icons_attention": [33, 54, 110],
+
+      "popup": [248, 249, 250],
+      "popup_border": [146, 156, 208],
+      "popup_highlight": [20, 46, 123],
+
+      "sidebar_highlight": [20, 46, 123],
+      "sidebar_highlight_text": [248, 249, 250]
+    }
+  }
+}
